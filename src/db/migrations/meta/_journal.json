@@ -8,6 +8,13 @@
       "when": 1751947878682,
       "tag": "0000_fearless_the_enforcers",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752119061020,
+      "tag": "0001_heavy_luckman",
+      "breakpoints": true
     }
   ]
 }
